@@ -23,5 +23,5 @@ $$v(t)=\{S-Rt\geq0: S-max(S-Rt, 0) + u, 0\} \{t\geq0\}$$
 
 ## What does this mean?
 
-- Refuel locatoins need to have a distance much less than $s_{\mathrm{max}}$ apart. 
+- Refuel locations need to have a distance much less than $s_{\mathrm{max}}$ apart. 
 
