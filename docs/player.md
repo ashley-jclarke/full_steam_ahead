@@ -13,7 +13,12 @@ The x-position of the front of the train. Relative to the start of the page.
 
 ### Speed
 
-The current speed of the train. Add to position each frame (*delta).
+```
+(top, bottom) = 30 pixels / 1 second
+
+if tick % bottom == 0
+    position += top
+```
 
 ### Page
 
